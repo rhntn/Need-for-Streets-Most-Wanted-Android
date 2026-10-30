@@ -10,7 +10,7 @@
 
 Need for Streets: Most Wanted, Android için bir sokak yarışı oyunudur.
 
-[APK indir](https://github.com/rhntn/Need-for-Streets-Most-Wanted-Android/releases)
+[APK indir](https://drive.google.com/file/d/19RnpeXuJb8ZrDRFT5ggzBd_OCrHzXTeS/view?usp=sharing)
 
 <a id="en"></a>
 
@@ -18,7 +18,7 @@ Need for Streets: Most Wanted, Android için bir sokak yarışı oyunudur.
 
 Need for Streets: Most Wanted is a street racing game for Android.
 
-[Download APK](https://github.com/rhntn/Need-for-Streets-Most-Wanted-Android/releases)
+[Download APK](https://drive.google.com/file/d/19RnpeXuJb8ZrDRFT5ggzBd_OCrHzXTeS/view?usp=sharing)
 
 <a id="fr"></a>
 
@@ -26,7 +26,7 @@ Need for Streets: Most Wanted is a street racing game for Android.
 
 Need for Streets: Most Wanted est un jeu de course de rue pour Android.
 
-[Télécharger l’APK](https://github.com/rhntn/Need-for-Streets-Most-Wanted-Android/releases)
+[Télécharger l’APK](https://drive.google.com/file/d/19RnpeXuJb8ZrDRFT5ggzBd_OCrHzXTeS/view?usp=sharing)
 
 <a id="de"></a>
 
@@ -34,7 +34,7 @@ Need for Streets: Most Wanted est un jeu de course de rue pour Android.
 
 Need for Streets: Most Wanted ist ein Straßenrennspiel für Android.
 
-[APK herunterladen](https://github.com/rhntn/Need-for-Streets-Most-Wanted-Android/releases)
+[APK herunterladen](https://drive.google.com/file/d/19RnpeXuJb8ZrDRFT5ggzBd_OCrHzXTeS/view?usp=sharing)
 
 <a id="it"></a>
 
@@ -42,7 +42,7 @@ Need for Streets: Most Wanted ist ein Straßenrennspiel für Android.
 
 Need for Streets: Most Wanted è un gioco di corse su strada per Android.
 
-[Scarica APK](https://github.com/rhntn/Need-for-Streets-Most-Wanted-Android/releases)
+[Scarica APK](https://drive.google.com/file/d/19RnpeXuJb8ZrDRFT5ggzBd_OCrHzXTeS/view?usp=sharing)
 
 <a id="es"></a>
 
@@ -50,7 +50,7 @@ Need for Streets: Most Wanted è un gioco di corse su strada per Android.
 
 Need for Streets: Most Wanted es un juego de carreras callejeras para Android.
 
-[Descargar APK](https://github.com/rhntn/Need-for-Streets-Most-Wanted-Android/releases)
+[Descargar APK](https://drive.google.com/file/d/19RnpeXuJb8ZrDRFT5ggzBd_OCrHzXTeS/view?usp=sharing)
 
 <a id="nl"></a>
 
@@ -58,7 +58,7 @@ Need for Streets: Most Wanted es un juego de carreras callejeras para Android.
 
 Need for Streets: Most Wanted is een straatracegame voor Android.
 
-[APK downloaden](https://github.com/rhntn/Need-for-Streets-Most-Wanted-Android/releases)
+[APK downloaden](https://drive.google.com/file/d/19RnpeXuJb8ZrDRFT5ggzBd_OCrHzXTeS/view?usp=sharing)
 
 <a id="pl"></a>
 
@@ -66,7 +66,7 @@ Need for Streets: Most Wanted is een straatracegame voor Android.
 
 Need for Streets: Most Wanted to gra wyścigowa na Androida z wyścigami ulicznymi.
 
-[Pobierz APK](https://github.com/rhntn/Need-for-Streets-Most-Wanted-Android/releases)
+[Pobierz APK](https://drive.google.com/file/d/19RnpeXuJb8ZrDRFT5ggzBd_OCrHzXTeS/view?usp=sharing)
 
 <a id="sv"></a>
 
@@ -74,7 +74,7 @@ Need for Streets: Most Wanted to gra wyścigowa na Androida z wyścigami uliczny
 
 Need for Streets: Most Wanted är ett streetracingspel för Android.
 
-[Ladda ner APK](https://github.com/rhntn/Need-for-Streets-Most-Wanted-Android/releases)
+[Ladda ner APK](https://drive.google.com/file/d/19RnpeXuJb8ZrDRFT5ggzBd_OCrHzXTeS/view?usp=sharing)
 
 <a id="da"></a>
 
@@ -82,7 +82,7 @@ Need for Streets: Most Wanted är ett streetracingspel för Android.
 
 Need for Streets: Most Wanted er et gaderacerspil til Android.
 
-[Download APK](https://github.com/rhntn/Need-for-Streets-Most-Wanted-Android/releases)
+[Download APK](https://drive.google.com/file/d/19RnpeXuJb8ZrDRFT5ggzBd_OCrHzXTeS/view?usp=sharing)
 
 <a id="fi"></a>
 
@@ -90,7 +90,7 @@ Need for Streets: Most Wanted er et gaderacerspil til Android.
 
 Need for Streets: Most Wanted on katukilpa-ajopeli Androidille.
 
-[Lataa APK](https://github.com/rhntn/Need-for-Streets-Most-Wanted-Android/releases)
+[Lataa APK](https://drive.google.com/file/d/19RnpeXuJb8ZrDRFT5ggzBd_OCrHzXTeS/view?usp=sharing)
 
 <table>
 <tr>
